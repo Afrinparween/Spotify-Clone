@@ -1,4 +1,5 @@
-# Spotify-CloneThis project is a front-end clone of the popular music streaming platform Spotify.
+# Spotify-Clone
+This project is a front-end clone of the popular music streaming platform Spotify.
 It focuses on replicating the UI design using only HTML and CSS without any JavaScript functionality.
 
 The goal of this project was to practice:
